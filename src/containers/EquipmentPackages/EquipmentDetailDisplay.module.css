@@ -1,0 +1,39 @@
+.productSection{
+    margin-top: 5.5em;
+}
+.productGallery{
+    padding: 1em 0
+}
+.productGallery .photoGallery{
+    margin-right: .8em;
+    display: inline-block
+}
+.productDetails .productName {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ebebeb;
+}
+.productDetails .prouctPrice {
+    font-size: 1.5em;
+    font-weight: 500;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ebebeb;
+}
+
+.productDetails .productFeatures{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ebebeb;
+}
+
+.productDetails .featureHeader{
+    font-weight: bold;
+}
+
+.sellingPrice {
+    font-size: 12px;
+    margin-left: 1.5em
+}
