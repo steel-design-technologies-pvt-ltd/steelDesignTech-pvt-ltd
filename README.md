@@ -1,1 +1,1 @@
-Steeldesign tech [dot] com is a service provider in hospitality domain. It offers service like modular kitchen design solution , dealing in steel design equipments which are used in hospitality domain
+Steeldesign tech [dot] com is a service provider in hospitality domain. It offers service like modular kitchen design solution , dealing in steel design equipments which are used in hospitality domain.
