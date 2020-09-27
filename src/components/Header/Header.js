@@ -26,7 +26,7 @@ class Header extends Component {
                     <div className="container">
                       <ul className="list-inline text-right fixedContact">
                         <li>For any query Call : </li>
-                        <li>+91-9650365689</li>
+                        <li>+91-9650465689</li>
                       </ul>
                     </div>
                     <div className="container">
